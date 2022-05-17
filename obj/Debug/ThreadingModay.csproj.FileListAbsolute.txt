@@ -1,0 +1,7 @@
+D:\Study\Tasks made by me\Homework\С#\ThreadingModay\bin\Debug\ThreadingModay.exe.config
+D:\Study\Tasks made by me\Homework\С#\ThreadingModay\bin\Debug\ThreadingModay.exe
+D:\Study\Tasks made by me\Homework\С#\ThreadingModay\bin\Debug\ThreadingModay.pdb
+D:\Study\Tasks made by me\Homework\С#\ThreadingModay\obj\Debug\ThreadingModay.csproj.AssemblyReference.cache
+D:\Study\Tasks made by me\Homework\С#\ThreadingModay\obj\Debug\ThreadingModay.csproj.CoreCompileInputs.cache
+D:\Study\Tasks made by me\Homework\С#\ThreadingModay\obj\Debug\ThreadingModay.exe
+D:\Study\Tasks made by me\Homework\С#\ThreadingModay\obj\Debug\ThreadingModay.pdb
